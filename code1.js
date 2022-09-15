@@ -10,7 +10,6 @@ for(m=0; m<=10; m++){
     else{
         console.log(m,"Toq")
         count2++
-        console.log(m)
     }
 }
 console.log(count)
